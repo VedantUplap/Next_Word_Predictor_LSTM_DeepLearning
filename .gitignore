@@ -1,0 +1,50 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Conda environments
+conda-meta/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# TensorFlow model checkpoints
+*.ckpt
+*.h5
+
+# Logs
+*.log
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
